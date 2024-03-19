@@ -1,2 +1,2 @@
 
-https://lishagoel.github.io/Openai/
+https://lishagoel.github.io/Openai-Clone/
